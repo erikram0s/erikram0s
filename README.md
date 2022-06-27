@@ -1,6 +1,10 @@
-### Hi there 👋
+# sobre mim
+- ola,eu me chamo erik eduardo ramos vicente
+-atualmente estudo em CECMPS;
+-atualmente estou aprendendo programação no SCRATH e JAVASCRIPT;
 
-<!--
+
+
 **erikram0s/erikram0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
