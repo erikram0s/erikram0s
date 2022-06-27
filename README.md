@@ -1,7 +1,7 @@
 # sobre mim
 - ola,eu me chamo erik eduardo ramos vicente
--atualmente estudo em CECMPS;
--atualmente estou aprendendo programação no SCRATH e JAVASCRIPT;
+- atualmente estudo em CECMPS;
+- atualmente estou aprendendo programação no SCRATH e JAVASCRIPT;
 
 
 
